@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Константин Васенин](https://up.htmlacademy.ru/javascript/20/user/245078).
-* Наставник: `Неизвестно`.
+* Наставник: [Святослав Родионов](https://htmlacademy.ru/profile/rodionsv).
 
 ---
 
